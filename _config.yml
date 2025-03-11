@@ -1,3 +1,6 @@
+title: My Jekyll Site
+description: A simple GitHub Pages site
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # [So Simple Jekyll Theme][1]
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
@@ -225,11 +228,6 @@ Layouts, includes, Sass partials, and data files are all placed in their default
 ### Starting Fresh
 
 After creating a `Gemfile` and installing the theme you'll need to add and edit the following files:
-
-* [`_config.yml`](_config.yml)
-* [`/_data/navigation.yml`](_data/navigation.yml)
-* [`/_data/text.yml`](_data/text.yml)
-* [`index.md`](index.md)
 
 **Note:** Consult the [**pagination**](#pagination) documentation below for instructions on how to enable it on the home page.
 
@@ -1218,4 +1216,4 @@ Table of Contents Toggle is distributed under the terms of the MIT License](http
 plugins:
   - jekyll-remote-theme
 [jekyll-archives]: https://github.com/jekyll/jekyll-archives
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
