@@ -1,26 +1,103 @@
-# [So Simple Jekyll Theme][1]
+PURVA SHAH
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
+    ACADEMIC PROFILE
+CHELSEA BUILDING, HIRANANDANI ESTATE, THANE
+400607
+• +917021526664 /+971 544984020  www.linkedin.com/in/purva-shah-aa9573212
 
-So Simple is a simple [Jekyll theme](https://jekyllrb.com/docs/themes/) for your words and pictures. Built to provide:
 
-* A variety of layouts with clean and readable typography.
-* [Microformats](http://microformats.org/wiki/microformats2) markup to make post content machine-readable and discoverable.
-* Disqus Comments and Google Analytics support.
-* SEO best practices via [Jekyll SEO Tag][jekyll-seo-tag].
-* Options to customize the theme and make it your own.
+   Birla Institute of Technology and Science, Dubai, UAE				                            September 2024 - Present
+   Btech in Electronics and Computer Engineering
 
-:sparkles: **See what's new in the [CHANGELOG](CHANGELOG.md).** :blue_book: **[v2 documentation](README-OLD.md)**.
+   Dwarkadas J. Sanghvi College of Engineering, Mumbai, India				            August 2023 - August 2024
+   Btech in Computer Science and Engineering (ICB)
 
-[![So Simple live preview][2]][1]
+  Amber International School, Thane, India                                                                                             April. 2021 - April 2023
+Courses: English, Mathematics, Physics, Chemistry, Computer Science
 
-![So Simple layouts](screenshots.jpg)
+RECENT EXPERIENCE
 
-[1]: https://mmistakes.github.io/so-simple-theme/
-[2]: screenshot.png "site preview"
 
-## Sample Pages
+Electrical and Coding Department, DJS Antariksh Martian Rover Team                                           January 2024 - September 2024          
+Technical Team, E-Cell (Dwarkadas J. Sanghvi College of Engineering)                                          October 2023 - September 2024
+Security and Digital Transformation Intern, Pine Labs (Paid)                                                                  June 2024 - September 2024
+Machine Learning Internship, IIT Bombay
+Artificial Intelligence, IIT Bombay (E Summit)     
+Crash Course on Python, Google               
+
+RESEARCH EXPERIENCE
+
+
+
+Lumiere Education, Individual Research Scholar	                                                                                                Dec 2022 – May 2023
+Received a full scholarship ($2,600) to support this research.
+Analyzed the auroral environment to determine the feasible parameters for replicating Auroras (a high altitude phenomenon) in low altitudes. Traversed topics like Magnetic Reconnection, Solar winds, Ionosphere and geomagnetic storms.
+Worked under a MIT PhD researcher to further the space weather data analysis. Incorporated python to store & survey space weather repositories and plotted their data points. The result aligned with the 11-year recurring solar cycle.
+
+  NSS Space Settlement Contest, Team Captain	                                                                                        October 2019 - Jan 2020		
+Designed a space settlement (Aakash Tarang),  capable of subsisting human life in the Aldrin Cycler orbit. 
+Main aspects of this proposal were creation of pseudo gravity, constant oxygen supply and replication of earth like environment in the settlement. 
+
+ACADEMIC CERTIFICATIONS
+
+
+
+
+
+
+
+
+
+
+                          Building Deep Learning models with TensorFlow, IBM					         August 2024 - September 2024        
+Learned about TensorFlow Keras, Convolutional Neural networks CNN & Generative Adversarial Networks.
+Implement data preprocessing pipelines, including normalization, augmentation, and batching, to prepare data for training.
+
+                       SQL for Data Science, University of California						         August 2024 - September 2024        
+Implement complex queries involving subqueries, nested queries, and common table expressions.
+Integrate SQL queries within data science workflows, such as data extraction, data wrangling, and feature engineering.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CS50’s Introduction to programming with Python, Harvard University	                                                      Feb 2023 - Dec 2023
+
+
+
+Explored flask and other python frameworks (Django).
+Strengthened python grasp by implementation of loops, conditionals and OOP in assigned projects.
+
+   RELEVANT PROJECTS
+
+
+
+
+
+  School Representative, VJTI Technovanza 							           Dec 2018- Jan 2019
+Integrated a smart drainage system capable of controlling the water flow in flood prone areas.
+Machinery used: Arduino UNO, Servo Motors, IR Sensors, Ultrasonic sensor, probe sensor.
+Received 3rd price (Group) for the project, 1st place for Smart City contest (Individual)
+
+  Team Captain, CBSE Regional Fest   								           Dec 2018, Dec 2019                                                                                                          
+Developed an agro drone that collected field data from inaccessible areas and automated field irrigation.
+Received award for the Most Innovative Team.
+Machinery Used: Raspberry Pi, propellors, bluetooth transceiver, ArduCam, Arduino UNO, Humidity Sensors, Soil moisture sensor, water pipes, DC 3V pump.
+
+SKILLS AND PRODUCTIVITY SUITES
+
+Skills: C, Java, Python, MySQL, HTML, Vectary 3D, Canva, Fritzing. 							      Coding microcontrollers/microprocessors: Arduino UNO, Arduino Nano, Raspberry Pi, Teensy 3.0.                                                                    Previous achievements: AIR 7 (Microsoft Office Specialist World Championship), Podium at Technovanza & Techxposure. 
 
 | Description |    |    |
 | ----------- | -- | -- |
@@ -1112,104 +1189,8 @@ If all goes well, executing `npm run build:js` will compress/concatenate `main.j
 Found a typo in the documentation? Requesting a feature or
 [bug fix][issues]? Search through the open and closed issues before [submitting an issue][new-issue] to avoid duplication. 
 
-[Pull requests][using-pull-requests] are also appreciated. If this is your first time, it may be helpful to read up on the [GitHub Flow][github-flow].
+[Pull requests][using-pull-requests] are also appreciated. If this is your first time, it may be helpful to read up on the [GitHub Flow]
 
-If your contribution adds or changes the theme's behavior, make sure to update the documentation and/or sample content. Documentation lives in README.md while sample posts, pages, and collections are in the [`docs`](docs) and [`example`](example) folders.
-
-[issues]: https://github.com/mmistakes/so-simple-theme/issues
-[new-issue]: https://github.com/mmistakes/so-simple-theme/issues/new
-[using-pull-requests]: https://help.github.com/articles/using-pull-requests/
-[github-flow]: https://guides.github.com/introduction/flow/
-
-### Pull Requests
-
-When submitting a pull request:
-
-1. Clone the repo.
-2. Create a branch off of `master` and give it a meaningful name (e.g.
-   `my-awesome-new-feature`).
-3. Open a pull request on GitHub and describe what problem it solves.
-
----
-
-## Credits
-
-### Creator
-
-**Michael Rose**
-
-* <https://mademistakes.com>
-* <https://twitter.com/mmistakes>
-* <https://github.com/mmistakes>
-
-### Icons + Demo Images:
-
-* [Font Awesome](https://fontawesome.com)
-* [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)
-* [Unsplash](https://unsplash.com/)
-
-### Other:
-
-* [Jekyll](http://jekyllrb.com/)
-* [Breakpoint](http://breakpoint-sass.com/)
-* [jQuery](http://jquery.com/)
-* [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-* [Lity](https://sorgalla.com/lity/)
-* [Lunr](http://lunrjs.com/)
-
----
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2013-2019 Michael Rose and contributors
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-So Simple incorporates [Font Awesome](http://fontawesome.io/),
-Copyright (c) 2017 Dave Gandy.
-Font Awesome is distributed under the terms of the [SIL OFL 1.1](http://scripts.sil.org/OFL)
-and [MIT License](http://opensource.org/licenses/MIT).
-
-So Simple incorporates photographs from [Unsplash](https://unsplash.com).
-
-So Simple incorporates photographs from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)
-
-So Simple incorporates [Breakpoint](http://breakpoint-sass.com/).
-Breakpoint is distributed under the terms of the [MIT/GPL Licenses](http://opensource.org/licenses/MIT).
-
-So Simple incorporates [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll),
-Copyright (c) 2017 Karl Swedberg.
-jQuery Smooth Scroll is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-So Simple incorporates [Lunr](http://lunrjs.com),
-Copyright (c) 2017 Oliver Nightingale.
-Lunr is distributed under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
-So Simple incorporates [Lity](http://sorgalla.com/lity/),
-Copyright (c) 2015-2016, Jan Sorgalla.
-Lity is distributed under the terms of the MIT License](http://opensource.org/licenses/MIT).
-
-So Simple incorporates [Table of Contents Toggle](https://github.com/smithtimmytim/brightlycolored.org),
-Copyright (c) 2017 Timothy B. Smith.
-Table of Contents Toggle is distributed under the terms of the MIT License](http://opensource.org/licenses/MIT).
 
 [jekyll-seo-tag]: https://github.com/jekyll/jekyll-seo-tag
 [jekyll-feed]: https://github.com/jekyll/jekyll-feed
