@@ -3,39 +3,8 @@ description: A simple GitHub Pages site
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # [So Simple Jekyll Theme][1]
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
-[![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 
-So Simple is a simple [Jekyll theme](https://jekyllrb.com/docs/themes/) for your words and pictures. Built to provide:
 
-* A variety of layouts with clean and readable typography.
-* [Microformats](http://microformats.org/wiki/microformats2) markup to make post content machine-readable and discoverable.
-* Disqus Comments and Google Analytics support.
-* SEO best practices via [Jekyll SEO Tag][jekyll-seo-tag].
-* Options to customize the theme and make it your own.
-
-:sparkles: **See what's new in the [CHANGELOG](CHANGELOG.md).** :blue_book: **[v2 documentation](README-OLD.md)**.
-
-[![So Simple live preview][2]][1]
-
-![So Simple layouts](screenshots.jpg)
-
-[1]: https://mmistakes.github.io/so-simple-theme/
-[2]: screenshot.png "site preview"
-
-## Sample Pages
-
-| Description |    |    |
-| ----------- | -- | -- |
-| A post with a large hero image. | [Preview][post-hero-preview] | [Source][post-hero-source] |
-| A post with a variety of common HTML elements showing how the theme styles them. | [Preview][post-html-elements-preview] | [Source][post-html-elements-source] |
-| Post displaying highlighted code. | [Preview][post-syntax-preview] | [Source][post-syntax-code] |
-| A post displaying images with a variety of alignments. | [Preview][post-image-alignment-preview] | [Source][post-image-alignment-source] |
-| All posts grouped by year. | [Preview][posts-year-preview] | [Source][posts-year-source] |
-| All posts grouped by category. | [Preview][posts-category-preview] | [Source][posts-category-source] |
-| All posts grouped by tag. | [Preview][posts-tag-preview] | [Source][posts-tag-source] |
-| Category page. | [Preview][category-page-preview] | [Source][category-page-source] |
-| Listing of documents in grid view. | [Preview][grid-view-preview] | [Source][grid-view-source] |
 
 [post-hero-preview]: https://mmistakes.github.io/so-simple-theme/layout/layout-hero-image/
 [post-hero-source]: docs/_posts/2012-03-14-layout-hero-image.md
